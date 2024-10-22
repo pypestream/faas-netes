@@ -20,7 +20,7 @@ entries:
     sources:
     - https://github.com/openfaas/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.11.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.11.tgz
     version: 0.6.11
   - apiVersion: v1
     created: "2024-10-02T17:54:15.338087068+01:00"
@@ -41,7 +41,7 @@ entries:
     sources:
     - https://github.com/openfaas/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.10.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.10.tgz
     version: 0.6.10
   - apiVersion: v1
     created: "2024-10-02T17:54:15.342316689+01:00"
@@ -62,7 +62,7 @@ entries:
     sources:
     - https://github.com/openfaas/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.9.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.9.tgz
     version: 0.6.9
   - apiVersion: v1
     created: "2024-10-02T17:54:15.342021824+01:00"
@@ -83,7 +83,7 @@ entries:
     sources:
     - https://github.com/openfaas/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.8.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.8.tgz
     version: 0.6.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.341738772+01:00"
@@ -104,7 +104,7 @@ entries:
     sources:
     - https://github.com/openfaas/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.7.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.7.tgz
     version: 0.6.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.34137641+01:00"
@@ -125,7 +125,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.6.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.6.tgz
     version: 0.6.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.340952061+01:00"
@@ -146,7 +146,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.5.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.5.tgz
     version: 0.6.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.340234029+01:00"
@@ -167,7 +167,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.4.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.4.tgz
     version: 0.6.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.339985602+01:00"
@@ -188,7 +188,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.3.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.339592672+01:00"
@@ -209,7 +209,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.2.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.337399264+01:00"
@@ -230,7 +230,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.1.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.337173799+01:00"
@@ -251,7 +251,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.6.0.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.336942885+01:00"
@@ -272,7 +272,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.5.3.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.5.3.tgz
     version: 0.5.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.336714846+01:00"
@@ -293,7 +293,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.5.2.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.5.2.tgz
     version: 0.5.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.336436672+01:00"
@@ -314,7 +314,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.5.1.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.336219984+01:00"
@@ -335,7 +335,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.5.0.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.336003346+01:00"
@@ -356,7 +356,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.3.2.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.335774115+01:00"
@@ -377,7 +377,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/cron-connector
     urls:
-    - https://openfaas.github.io/faas-netes/cron-connector-0.3.1.tgz
+    - https://pypestream.github.io/faas-netes/cron-connector-0.3.1.tgz
     version: 0.3.1
   federated-gateway:
   - apiVersion: v2
@@ -396,7 +396,7 @@ entries:
       name: welteki
     name: federated-gateway
     urls:
-    - https://openfaas.github.io/faas-netes/federated-gateway-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/federated-gateway-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.343303186+01:00"
@@ -414,7 +414,7 @@ entries:
       name: welteki
     name: federated-gateway
     urls:
-    - https://openfaas.github.io/faas-netes/federated-gateway-0.0.3.tgz
+    - https://pypestream.github.io/faas-netes/federated-gateway-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.343047996+01:00"
@@ -432,7 +432,7 @@ entries:
       name: welteki
     name: federated-gateway
     urls:
-    - https://openfaas.github.io/faas-netes/federated-gateway-0.0.2.tgz
+    - https://pypestream.github.io/faas-netes/federated-gateway-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.342583331+01:00"
@@ -450,7 +450,7 @@ entries:
       name: welteki
     name: federated-gateway
     urls:
-    - https://openfaas.github.io/faas-netes/federated-gateway-0.0.1.tgz
+    - https://pypestream.github.io/faas-netes/federated-gateway-0.0.1.tgz
     version: 0.0.1
   kafka-connector:
   - apiVersion: v1
@@ -473,7 +473,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.11.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.11.tgz
     version: 0.7.11
   - apiVersion: v1
     created: "2024-10-02T17:54:15.3538192+01:00"
@@ -495,7 +495,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.10.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.10.tgz
     version: 0.7.10
   - apiVersion: v1
     created: "2024-10-02T17:54:15.357498976+01:00"
@@ -517,7 +517,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.9.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.9.tgz
     version: 0.7.9
   - apiVersion: v1
     created: "2024-10-02T17:54:15.357107489+01:00"
@@ -539,7 +539,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.8.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.8.tgz
     version: 0.7.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.356688971+01:00"
@@ -561,7 +561,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.7.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.7.tgz
     version: 0.7.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.356240237+01:00"
@@ -583,7 +583,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.6.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.6.tgz
     version: 0.7.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.355845824+01:00"
@@ -605,7 +605,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.5.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.5.tgz
     version: 0.7.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.355416616+01:00"
@@ -625,7 +625,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.4.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.4.tgz
     version: 0.7.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.354936974+01:00"
@@ -645,7 +645,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.3.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.3.tgz
     version: 0.7.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.354512435+01:00"
@@ -665,7 +665,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.2.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.2.tgz
     version: 0.7.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.353404619+01:00"
@@ -685,7 +685,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.1.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.1.tgz
     version: 0.7.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.351891992+01:00"
@@ -705,7 +705,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.7.0.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.351532796+01:00"
@@ -725,7 +725,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.9.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.9.tgz
     version: 0.6.9
   - apiVersion: v1
     created: "2024-10-02T17:54:15.351158201+01:00"
@@ -745,7 +745,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.8.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.8.tgz
     version: 0.6.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.350795639+01:00"
@@ -765,7 +765,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.7.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.7.tgz
     version: 0.6.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.350427596+01:00"
@@ -785,7 +785,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.6.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.6.tgz
     version: 0.6.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.350071916+01:00"
@@ -805,7 +805,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.5.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.5.tgz
     version: 0.6.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.349733399+01:00"
@@ -825,7 +825,7 @@ entries:
     sources:
     - https://github.com/openfaas/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.3.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.3492717+01:00"
@@ -845,7 +845,7 @@ entries:
     sources:
     - https://github.com/openfaas/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.2.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.348356568+01:00"
@@ -865,7 +865,7 @@ entries:
     sources:
     - https://github.com/openfaas/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.6.1.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.348061342+01:00"
@@ -885,7 +885,7 @@ entries:
     sources:
     - https://github.com/openfaas/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.5.1.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.34780001+01:00"
@@ -904,7 +904,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.5.0.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.347543768+01:00"
@@ -925,7 +925,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.4.3.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.347249083+01:00"
@@ -946,7 +946,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.4.2.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.346937657+01:00"
@@ -967,7 +967,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.4.1.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.346640818+01:00"
@@ -988,7 +988,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.4.0.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.346388253+01:00"
@@ -1009,7 +1009,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.3.0.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.346131901+01:00"
@@ -1030,7 +1030,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.2.3.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.345766022+01:00"
@@ -1051,7 +1051,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.2.2.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.344246692+01:00"
@@ -1072,7 +1072,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.1.2.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.343962056+01:00"
@@ -1093,7 +1093,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.1.1.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.343708549+01:00"
@@ -1112,7 +1112,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/kafka-connector
     urls:
-    - https://openfaas.github.io/faas-netes/kafka-connector-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/kafka-connector-0.1.0.tgz
     version: 0.1.0
   mqtt-connector:
   - apiVersion: v1
@@ -1133,7 +1133,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.7.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.7.tgz
     version: 0.4.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.36082171+01:00"
@@ -1153,7 +1153,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.6.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.6.tgz
     version: 0.4.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.360621774+01:00"
@@ -1172,7 +1172,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.5.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.5.tgz
     version: 0.4.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.360420114+01:00"
@@ -1191,7 +1191,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.4.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.360218915+01:00"
@@ -1210,7 +1210,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.3.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.360018929+01:00"
@@ -1229,7 +1229,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.2.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.359810326+01:00"
@@ -1248,7 +1248,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.1.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.35954658+01:00"
@@ -1267,7 +1267,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.4.0.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.358155592+01:00"
@@ -1288,7 +1288,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/mqtt-connector
     urls:
-    - https://openfaas.github.io/faas-netes/mqtt-connector-0.3.1.tgz
+    - https://pypestream.github.io/faas-netes/mqtt-connector-0.3.1.tgz
     version: 0.3.1
   nats-connector:
   - apiVersion: v1
@@ -1308,7 +1308,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/nats-connector
     urls:
-    - https://openfaas.github.io/faas-netes/nats-connector-0.3.2.tgz
+    - https://pypestream.github.io/faas-netes/nats-connector-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.362066002+01:00"
@@ -1327,7 +1327,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/nats-connector
     urls:
-    - https://openfaas.github.io/faas-netes/nats-connector-0.3.1.tgz
+    - https://pypestream.github.io/faas-netes/nats-connector-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.361869763+01:00"
@@ -1348,7 +1348,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/nats-connector
     urls:
-    - https://openfaas.github.io/faas-netes/nats-connector-0.3.0.tgz
+    - https://pypestream.github.io/faas-netes/nats-connector-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.361632306+01:00"
@@ -1369,7 +1369,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/nats-connector
     urls:
-    - https://openfaas.github.io/faas-netes/nats-connector-0.1.1.tgz
+    - https://pypestream.github.io/faas-netes/nats-connector-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.36134259+01:00"
@@ -1390,7 +1390,7 @@ entries:
     sources:
     - https://github.com/openfaas-incubator/nats-connector
     urls:
-    - https://openfaas.github.io/faas-netes/nats-connector-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/nats-connector-0.1.0.tgz
     version: 0.1.0
   openfaas:
   - apiVersion: v2
@@ -1415,7 +1415,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.77.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.77.tgz
     version: 14.2.77
   - apiVersion: v2
     created: "2024-10-02T17:54:15.683929541+01:00"
@@ -1439,7 +1439,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.76.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.76.tgz
     version: 14.2.76
   - apiVersion: v2
     created: "2024-10-02T17:54:15.681096639+01:00"
@@ -1463,7 +1463,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.75.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.75.tgz
     version: 14.2.75
   - apiVersion: v2
     created: "2024-10-02T17:54:15.679076216+01:00"
@@ -1487,7 +1487,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.74.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.74.tgz
     version: 14.2.74
   - apiVersion: v2
     created: "2024-10-02T17:54:15.677083455+01:00"
@@ -1511,7 +1511,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.73.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.73.tgz
     version: 14.2.73
   - apiVersion: v2
     created: "2024-10-02T17:54:15.674824283+01:00"
@@ -1535,7 +1535,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.72.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.72.tgz
     version: 14.2.72
   - apiVersion: v2
     created: "2024-10-02T17:54:15.672418645+01:00"
@@ -1559,7 +1559,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.71.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.71.tgz
     version: 14.2.71
   - apiVersion: v2
     created: "2024-10-02T17:54:15.670788797+01:00"
@@ -1583,7 +1583,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.70.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.70.tgz
     version: 14.2.70
   - apiVersion: v2
     created: "2024-10-02T17:54:15.666533819+01:00"
@@ -1607,7 +1607,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.69.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.69.tgz
     version: 14.2.69
   - apiVersion: v2
     created: "2024-10-02T17:54:15.664876038+01:00"
@@ -1631,7 +1631,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.68.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.68.tgz
     version: 14.2.68
   - apiVersion: v2
     created: "2024-10-02T17:54:15.66320332+01:00"
@@ -1655,7 +1655,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.67.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.67.tgz
     version: 14.2.67
   - apiVersion: v2
     created: "2024-10-02T17:54:15.66099308+01:00"
@@ -1679,7 +1679,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.66.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.66.tgz
     version: 14.2.66
   - apiVersion: v2
     created: "2024-10-02T17:54:15.65934624+01:00"
@@ -1703,7 +1703,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.65.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.65.tgz
     version: 14.2.65
   - apiVersion: v2
     created: "2024-10-02T17:54:15.656669041+01:00"
@@ -1727,7 +1727,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.64.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.64.tgz
     version: 14.2.64
   - apiVersion: v2
     created: "2024-10-02T17:54:15.653553787+01:00"
@@ -1751,7 +1751,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.63.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.63.tgz
     version: 14.2.63
   - apiVersion: v2
     created: "2024-10-02T17:54:15.651609458+01:00"
@@ -1775,7 +1775,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.62.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.62.tgz
     version: 14.2.62
   - apiVersion: v2
     created: "2024-10-02T17:54:15.648629609+01:00"
@@ -1799,7 +1799,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.61.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.61.tgz
     version: 14.2.61
   - apiVersion: v2
     created: "2024-10-02T17:54:15.646244409+01:00"
@@ -1823,7 +1823,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.60.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.60.tgz
     version: 14.2.60
   - apiVersion: v2
     created: "2024-10-02T17:54:15.642352454+01:00"
@@ -1847,7 +1847,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.59.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.59.tgz
     version: 14.2.59
   - apiVersion: v2
     created: "2024-10-02T17:54:15.640418834+01:00"
@@ -1871,7 +1871,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.58.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.58.tgz
     version: 14.2.58
   - apiVersion: v2
     created: "2024-10-02T17:54:15.637390785+01:00"
@@ -1895,7 +1895,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.56.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.56.tgz
     version: 14.2.56
   - apiVersion: v2
     created: "2024-10-02T17:54:15.635719389+01:00"
@@ -1919,7 +1919,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.55.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.55.tgz
     version: 14.2.55
   - apiVersion: v2
     created: "2024-10-02T17:54:15.633234642+01:00"
@@ -1943,7 +1943,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.54.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.54.tgz
     version: 14.2.54
   - apiVersion: v2
     created: "2024-10-02T17:54:15.630869521+01:00"
@@ -1967,7 +1967,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.53.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.53.tgz
     version: 14.2.53
   - apiVersion: v2
     created: "2024-10-02T17:54:15.628751133+01:00"
@@ -1991,7 +1991,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.52.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.52.tgz
     version: 14.2.52
   - apiVersion: v2
     created: "2024-10-02T17:54:15.626855675+01:00"
@@ -2015,7 +2015,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.51.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.51.tgz
     version: 14.2.51
   - apiVersion: v2
     created: "2024-10-02T17:54:15.624854739+01:00"
@@ -2039,7 +2039,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.50.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.50.tgz
     version: 14.2.50
   - apiVersion: v2
     created: "2024-10-02T17:54:15.619513396+01:00"
@@ -2063,7 +2063,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.49.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.49.tgz
     version: 14.2.49
   - apiVersion: v2
     created: "2024-10-02T17:54:15.61667335+01:00"
@@ -2087,7 +2087,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.48.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.48.tgz
     version: 14.2.48
   - apiVersion: v2
     created: "2024-10-02T17:54:15.614527331+01:00"
@@ -2111,7 +2111,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.47.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.47.tgz
     version: 14.2.47
   - apiVersion: v2
     created: "2024-10-02T17:54:15.612663903+01:00"
@@ -2135,7 +2135,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.46.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.46.tgz
     version: 14.2.46
   - apiVersion: v2
     created: "2024-10-02T17:54:15.610750682+01:00"
@@ -2159,7 +2159,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.45.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.45.tgz
     version: 14.2.45
   - apiVersion: v2
     created: "2024-10-02T17:54:15.6072748+01:00"
@@ -2183,7 +2183,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.44.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.44.tgz
     version: 14.2.44
   - apiVersion: v2
     created: "2024-10-02T17:54:15.605632358+01:00"
@@ -2207,7 +2207,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.43.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.43.tgz
     version: 14.2.43
   - apiVersion: v2
     created: "2024-10-02T17:54:15.603993454+01:00"
@@ -2231,7 +2231,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.42.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.42.tgz
     version: 14.2.42
   - apiVersion: v2
     created: "2024-10-02T17:54:15.602028195+01:00"
@@ -2255,7 +2255,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.40.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.40.tgz
     version: 14.2.40
   - apiVersion: v2
     created: "2024-10-02T17:54:15.599013881+01:00"
@@ -2279,7 +2279,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.39.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.39.tgz
     version: 14.2.39
   - apiVersion: v2
     created: "2024-10-02T17:54:15.597031419+01:00"
@@ -2303,7 +2303,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.38.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.38.tgz
     version: 14.2.38
   - apiVersion: v2
     created: "2024-10-02T17:54:15.5951988+01:00"
@@ -2327,7 +2327,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.37.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.37.tgz
     version: 14.2.37
   - apiVersion: v2
     created: "2024-10-02T17:54:15.59363685+01:00"
@@ -2351,7 +2351,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.36.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.36.tgz
     version: 14.2.36
   - apiVersion: v2
     created: "2024-10-02T17:54:15.591871037+01:00"
@@ -2375,7 +2375,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.35.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.35.tgz
     version: 14.2.35
   - apiVersion: v2
     created: "2024-10-02T17:54:15.590099763+01:00"
@@ -2399,7 +2399,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.34.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.34.tgz
     version: 14.2.34
   - apiVersion: v2
     created: "2024-10-02T17:54:15.588036289+01:00"
@@ -2423,7 +2423,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.33.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.33.tgz
     version: 14.2.33
   - apiVersion: v2
     created: "2024-10-02T17:54:15.586338443+01:00"
@@ -2447,7 +2447,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.32.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.32.tgz
     version: 14.2.32
   - apiVersion: v2
     created: "2024-10-02T17:54:15.584965138+01:00"
@@ -2471,7 +2471,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.31.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.31.tgz
     version: 14.2.31
   - apiVersion: v2
     created: "2024-10-02T17:54:15.583522192+01:00"
@@ -2495,7 +2495,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.30.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.30.tgz
     version: 14.2.30
   - apiVersion: v2
     created: "2024-10-02T17:54:15.580272024+01:00"
@@ -2519,7 +2519,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.29.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.29.tgz
     version: 14.2.29
   - apiVersion: v2
     created: "2024-10-02T17:54:15.578727277+01:00"
@@ -2543,7 +2543,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.28.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.28.tgz
     version: 14.2.28
   - apiVersion: v2
     created: "2024-10-02T17:54:15.577185675+01:00"
@@ -2567,7 +2567,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.27.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.27.tgz
     version: 14.2.27
   - apiVersion: v2
     created: "2024-10-02T17:54:15.574548862+01:00"
@@ -2593,7 +2593,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.26.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.26.tgz
     version: 14.2.26
   - apiVersion: v2
     created: "2024-10-02T17:54:15.572669856+01:00"
@@ -2619,7 +2619,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.25.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.25.tgz
     version: 14.2.25
   - apiVersion: v2
     created: "2024-10-02T17:54:15.569944616+01:00"
@@ -2645,7 +2645,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.24.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.24.tgz
     version: 14.2.24
   - apiVersion: v2
     created: "2024-10-02T17:54:15.56840087+01:00"
@@ -2671,7 +2671,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.23.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.23.tgz
     version: 14.2.23
   - apiVersion: v2
     created: "2024-10-02T17:54:15.566851133+01:00"
@@ -2697,7 +2697,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.22.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.22.tgz
     version: 14.2.22
   - apiVersion: v2
     created: "2024-10-02T17:54:15.564955866+01:00"
@@ -2723,7 +2723,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.21.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.21.tgz
     version: 14.2.21
   - apiVersion: v2
     created: "2024-10-02T17:54:15.563594975+01:00"
@@ -2749,7 +2749,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.20.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.20.tgz
     version: 14.2.20
   - apiVersion: v2
     created: "2024-10-02T17:54:15.560980073+01:00"
@@ -2775,7 +2775,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.19.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.19.tgz
     version: 14.2.19
   - apiVersion: v2
     created: "2024-10-02T17:54:15.559614052+01:00"
@@ -2801,7 +2801,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.18.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.18.tgz
     version: 14.2.18
   - apiVersion: v2
     created: "2024-10-02T17:54:15.557812541+01:00"
@@ -2827,7 +2827,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.17.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.17.tgz
     version: 14.2.17
   - apiVersion: v2
     created: "2024-10-02T17:54:15.556321354+01:00"
@@ -2853,7 +2853,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.16.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.16.tgz
     version: 14.2.16
   - apiVersion: v2
     created: "2024-10-02T17:54:15.555030915+01:00"
@@ -2879,7 +2879,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.15.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.15.tgz
     version: 14.2.15
   - apiVersion: v2
     created: "2024-10-02T17:54:15.552423718+01:00"
@@ -2905,7 +2905,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.14.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.14.tgz
     version: 14.2.14
   - apiVersion: v2
     created: "2024-10-02T17:54:15.550666801+01:00"
@@ -2931,7 +2931,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.13.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.13.tgz
     version: 14.2.13
   - apiVersion: v2
     created: "2024-10-02T17:54:15.549175484+01:00"
@@ -2957,7 +2957,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.12.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.12.tgz
     version: 14.2.12
   - apiVersion: v2
     created: "2024-10-02T17:54:15.547721267+01:00"
@@ -2983,7 +2983,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.11.tgz
     version: 14.2.11
   - apiVersion: v2
     created: "2024-10-02T17:54:15.546256911+01:00"
@@ -3009,7 +3009,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.10.tgz
     version: 14.2.10
   - apiVersion: v2
     created: "2024-10-02T17:54:15.688575416+01:00"
@@ -3035,7 +3035,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.9.tgz
     version: 14.2.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.687298602+01:00"
@@ -3061,7 +3061,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.8.tgz
     version: 14.2.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.667869392+01:00"
@@ -3087,7 +3087,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.7.tgz
     version: 14.2.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.643857928+01:00"
@@ -3113,7 +3113,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.6.tgz
     version: 14.2.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.62259716+01:00"
@@ -3139,7 +3139,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.5.tgz
     version: 14.2.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.600338835+01:00"
@@ -3165,7 +3165,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.4.tgz
     version: 14.2.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.58173598+01:00"
@@ -3191,7 +3191,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.3.tgz
     version: 14.2.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.562283396+01:00"
@@ -3217,7 +3217,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.2.tgz
     version: 14.2.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.544680754+01:00"
@@ -3243,7 +3243,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.1.tgz
     version: 14.2.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.542882028+01:00"
@@ -3269,7 +3269,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.2.0.tgz
     version: 14.2.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.531953829+01:00"
@@ -3295,7 +3295,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.26.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.26.tgz
     version: 14.1.26
   - apiVersion: v2
     created: "2024-10-02T17:54:15.530231577+01:00"
@@ -3321,7 +3321,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.25.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.25.tgz
     version: 14.1.25
   - apiVersion: v2
     created: "2024-10-02T17:54:15.529053179+01:00"
@@ -3347,7 +3347,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.24.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.24.tgz
     version: 14.1.24
   - apiVersion: v2
     created: "2024-10-02T17:54:15.527909587+01:00"
@@ -3373,7 +3373,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.23.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.23.tgz
     version: 14.1.23
   - apiVersion: v2
     created: "2024-10-02T17:54:15.526764211+01:00"
@@ -3399,7 +3399,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.22.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.22.tgz
     version: 14.1.22
   - apiVersion: v2
     created: "2024-10-02T17:54:15.525581886+01:00"
@@ -3425,7 +3425,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.21.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.21.tgz
     version: 14.1.21
   - apiVersion: v2
     created: "2024-10-02T17:54:15.524022831+01:00"
@@ -3451,7 +3451,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.20.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.20.tgz
     version: 14.1.20
   - apiVersion: v2
     created: "2024-10-02T17:54:15.521813443+01:00"
@@ -3477,7 +3477,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.19.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.19.tgz
     version: 14.1.19
   - apiVersion: v2
     created: "2024-10-02T17:54:15.520655874+01:00"
@@ -3503,7 +3503,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.18.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.18.tgz
     version: 14.1.18
   - apiVersion: v2
     created: "2024-10-02T17:54:15.519095827+01:00"
@@ -3529,7 +3529,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.17.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.17.tgz
     version: 14.1.17
   - apiVersion: v2
     created: "2024-10-02T17:54:15.517757889+01:00"
@@ -3555,7 +3555,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.16.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.16.tgz
     version: 14.1.16
   - apiVersion: v2
     created: "2024-10-02T17:54:15.516403019+01:00"
@@ -3581,7 +3581,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.15.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.15.tgz
     version: 14.1.15
   - apiVersion: v2
     created: "2024-10-02T17:54:15.51508624+01:00"
@@ -3607,7 +3607,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.14.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.14.tgz
     version: 14.1.14
   - apiVersion: v2
     created: "2024-10-02T17:54:15.51372083+01:00"
@@ -3633,7 +3633,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.13.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.13.tgz
     version: 14.1.13
   - apiVersion: v2
     created: "2024-10-02T17:54:15.511974063+01:00"
@@ -3659,7 +3659,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.12.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.12.tgz
     version: 14.1.12
   - apiVersion: v2
     created: "2024-10-02T17:54:15.510648127+01:00"
@@ -3685,7 +3685,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.11.tgz
     version: 14.1.11
   - apiVersion: v2
     created: "2024-10-02T17:54:15.509323163+01:00"
@@ -3711,7 +3711,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.10.tgz
     version: 14.1.10
   - apiVersion: v2
     created: "2024-10-02T17:54:15.54153855+01:00"
@@ -3737,7 +3737,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.9.tgz
     version: 14.1.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.540317792+01:00"
@@ -3763,7 +3763,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.8.tgz
     version: 14.1.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.539057019+01:00"
@@ -3789,7 +3789,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.7.tgz
     version: 14.1.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.537294872+01:00"
@@ -3815,7 +3815,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.6.tgz
     version: 14.1.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.535974637+01:00"
@@ -3841,7 +3841,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.5.tgz
     version: 14.1.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.534631048+01:00"
@@ -3867,7 +3867,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.4.tgz
     version: 14.1.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.533296717+01:00"
@@ -3893,7 +3893,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.3.tgz
     version: 14.1.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.522915848+01:00"
@@ -3919,7 +3919,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.2.tgz
     version: 14.1.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.507995354+01:00"
@@ -3945,7 +3945,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.1.1.tgz
     version: 14.1.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.495023328+01:00"
@@ -3971,7 +3971,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.12.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.12.tgz
     version: 14.0.12
   - apiVersion: v2
     created: "2024-10-02T17:54:15.493647608+01:00"
@@ -3997,7 +3997,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.11.tgz
     version: 14.0.11
   - apiVersion: v2
     created: "2024-10-02T17:54:15.491564627+01:00"
@@ -4023,7 +4023,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.10.tgz
     version: 14.0.10
   - apiVersion: v2
     created: "2024-10-02T17:54:15.506614274+01:00"
@@ -4049,7 +4049,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.9.tgz
     version: 14.0.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.504963297+01:00"
@@ -4075,7 +4075,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.8.tgz
     version: 14.0.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.503622834+01:00"
@@ -4101,7 +4101,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.7.tgz
     version: 14.0.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.502278283+01:00"
@@ -4127,7 +4127,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.6.tgz
     version: 14.0.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.500933081+01:00"
@@ -4153,7 +4153,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.5.tgz
     version: 14.0.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.499566809+01:00"
@@ -4179,7 +4179,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.4.tgz
     version: 14.0.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.497759267+01:00"
@@ -4205,7 +4205,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.3.tgz
     version: 14.0.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.496356066+01:00"
@@ -4231,7 +4231,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.2.tgz
     version: 14.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.490408211+01:00"
@@ -4257,7 +4257,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.1.tgz
     version: 14.0.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.489300646+01:00"
@@ -4283,7 +4283,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-14.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-14.0.0.tgz
     version: 14.0.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.488187601+01:00"
@@ -4309,7 +4309,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.1.1.tgz
     version: 13.1.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.48705018+01:00"
@@ -4335,7 +4335,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.1.0.tgz
     version: 13.1.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.485340983+01:00"
@@ -4361,7 +4361,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.0.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.0.5.tgz
     version: 13.0.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.484174027+01:00"
@@ -4387,7 +4387,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.0.4.tgz
     version: 13.0.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.483027258+01:00"
@@ -4413,7 +4413,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.0.3.tgz
     version: 13.0.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.481899876+01:00"
@@ -4439,7 +4439,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.0.2.tgz
     version: 13.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.480713974+01:00"
@@ -4465,7 +4465,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.0.1.tgz
     version: 13.0.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.479122038+01:00"
@@ -4491,7 +4491,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-13.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-13.0.0.tgz
     version: 13.0.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.478054238+01:00"
@@ -4517,7 +4517,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-12.0.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-12.0.6.tgz
     version: 12.0.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.476983573+01:00"
@@ -4543,7 +4543,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-12.0.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-12.0.5.tgz
     version: 12.0.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.475929849+01:00"
@@ -4569,7 +4569,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-12.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-12.0.4.tgz
     version: 12.0.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.474837984+01:00"
@@ -4595,7 +4595,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-12.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-12.0.3.tgz
     version: 12.0.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.47327892+01:00"
@@ -4621,7 +4621,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-12.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-12.0.2.tgz
     version: 12.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.472016053+01:00"
@@ -4647,7 +4647,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-12.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-12.0.1.tgz
     version: 12.0.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.470758846+01:00"
@@ -4673,7 +4673,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-12.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-12.0.0.tgz
     version: 12.0.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.458755583+01:00"
@@ -4699,7 +4699,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.14.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.14.tgz
     version: 11.1.14
   - apiVersion: v2
     created: "2024-10-02T17:54:15.457480714+01:00"
@@ -4725,7 +4725,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.13.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.13.tgz
     version: 11.1.13
   - apiVersion: v2
     created: "2024-10-02T17:54:15.456162082+01:00"
@@ -4751,7 +4751,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.12.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.12.tgz
     version: 11.1.12
   - apiVersion: v2
     created: "2024-10-02T17:54:15.454625069+01:00"
@@ -4777,7 +4777,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.11.tgz
     version: 11.1.11
   - apiVersion: v2
     created: "2024-10-02T17:54:15.453480414+01:00"
@@ -4803,7 +4803,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.10.tgz
     version: 11.1.10
   - apiVersion: v2
     created: "2024-10-02T17:54:15.469502011+01:00"
@@ -4829,7 +4829,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.9.tgz
     version: 11.1.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.468192105+01:00"
@@ -4855,7 +4855,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.8.tgz
     version: 11.1.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.466593496+01:00"
@@ -4881,7 +4881,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.7.tgz
     version: 11.1.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.46552761+01:00"
@@ -4907,7 +4907,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.6.tgz
     version: 11.1.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.464445513+01:00"
@@ -4933,7 +4933,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.5.tgz
     version: 11.1.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.463346194+01:00"
@@ -4959,7 +4959,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.4.tgz
     version: 11.1.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.461501832+01:00"
@@ -4985,7 +4985,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.3.tgz
     version: 11.1.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.460232944+01:00"
@@ -5011,7 +5011,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.2.tgz
     version: 11.1.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.452330781+01:00"
@@ -5037,7 +5037,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.1.tgz
     version: 11.1.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.451160939+01:00"
@@ -5063,7 +5063,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.1.0.tgz
     version: 11.1.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.437114179+01:00"
@@ -5089,7 +5089,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.11.tgz
     version: 11.0.11
   - apiVersion: v2
     created: "2024-10-02T17:54:15.436038505+01:00"
@@ -5115,7 +5115,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.10.tgz
     version: 11.0.10
   - apiVersion: v2
     created: "2024-10-02T17:54:15.449952935+01:00"
@@ -5141,7 +5141,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.9.tgz
     version: 11.0.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.448023814+01:00"
@@ -5167,7 +5167,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.8.tgz
     version: 11.0.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.446216161+01:00"
@@ -5193,7 +5193,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.7.tgz
     version: 11.0.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.44440876+01:00"
@@ -5219,7 +5219,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.6.tgz
     version: 11.0.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.442594825+01:00"
@@ -5245,7 +5245,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.5.tgz
     version: 11.0.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.4407323+01:00"
@@ -5271,7 +5271,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.4.tgz
     version: 11.0.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.439134372+01:00"
@@ -5297,7 +5297,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.3.tgz
     version: 11.0.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.438128919+01:00"
@@ -5323,7 +5323,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.2.tgz
     version: 11.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.434855709+01:00"
@@ -5349,7 +5349,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.1.tgz
     version: 11.0.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.43358686+01:00"
@@ -5375,7 +5375,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-11.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-11.0.0.tgz
     version: 11.0.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.42326356+01:00"
@@ -5401,7 +5401,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.13.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.13.tgz
     version: 10.2.13
   - apiVersion: v2
     created: "2024-10-02T17:54:15.421716878+01:00"
@@ -5427,7 +5427,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.12.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.12.tgz
     version: 10.2.12
   - apiVersion: v2
     created: "2024-10-02T17:54:15.420539372+01:00"
@@ -5453,7 +5453,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.11.tgz
     version: 10.2.11
   - apiVersion: v2
     created: "2024-10-02T17:54:15.419348601+01:00"
@@ -5479,7 +5479,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.10.tgz
     version: 10.2.10
   - apiVersion: v2
     created: "2024-10-02T17:54:15.43252942+01:00"
@@ -5505,7 +5505,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.9.tgz
     version: 10.2.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.431500453+01:00"
@@ -5531,7 +5531,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.8.tgz
     version: 10.2.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.430439677+01:00"
@@ -5557,7 +5557,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.7.tgz
     version: 10.2.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.429287788+01:00"
@@ -5583,7 +5583,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.6.tgz
     version: 10.2.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.427750795+01:00"
@@ -5609,7 +5609,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.5.tgz
     version: 10.2.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.426624085+01:00"
@@ -5635,7 +5635,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.4.tgz
     version: 10.2.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.425509297+01:00"
@@ -5661,7 +5661,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.3.tgz
     version: 10.2.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.424395901+01:00"
@@ -5687,7 +5687,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.2.tgz
     version: 10.2.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.418166045+01:00"
@@ -5713,7 +5713,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.1.tgz
     version: 10.2.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.417002385+01:00"
@@ -5739,7 +5739,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.2.0.tgz
     version: 10.2.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.415819628+01:00"
@@ -5765,7 +5765,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.1.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.1.4.tgz
     version: 10.1.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.414308133+01:00"
@@ -5791,7 +5791,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.1.3.tgz
     version: 10.1.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.413350952+01:00"
@@ -5817,7 +5817,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.1.2.tgz
     version: 10.1.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.412380976+01:00"
@@ -5843,7 +5843,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.1.1.tgz
     version: 10.1.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.411406542+01:00"
@@ -5869,7 +5869,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.1.0.tgz
     version: 10.1.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.402480231+01:00"
@@ -5895,7 +5895,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.28.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.28.tgz
     version: 10.0.28
   - apiVersion: v2
     created: "2024-10-02T17:54:15.401352979+01:00"
@@ -5921,7 +5921,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.27.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.27.tgz
     version: 10.0.27
   - apiVersion: v2
     created: "2024-10-02T17:54:15.400228242+01:00"
@@ -5947,7 +5947,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.25.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.25.tgz
     version: 10.0.25
   - apiVersion: v2
     created: "2024-10-02T17:54:15.399082616+01:00"
@@ -5973,7 +5973,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.24.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.24.tgz
     version: 10.0.24
   - apiVersion: v2
     created: "2024-10-02T17:54:15.397867869+01:00"
@@ -5997,7 +5997,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.23.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.23.tgz
     version: 10.0.23
   - apiVersion: v2
     created: "2024-10-02T17:54:15.396358338+01:00"
@@ -6021,7 +6021,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.22.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.22.tgz
     version: 10.0.22
   - apiVersion: v2
     created: "2024-10-02T17:54:15.395419471+01:00"
@@ -6045,7 +6045,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.21.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.21.tgz
     version: 10.0.21
   - apiVersion: v2
     created: "2024-10-02T17:54:15.394488188+01:00"
@@ -6069,7 +6069,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.20.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.20.tgz
     version: 10.0.20
   - apiVersion: v2
     created: "2024-10-02T17:54:15.392676959+01:00"
@@ -6093,7 +6093,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.19.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.19.tgz
     version: 10.0.19
   - apiVersion: v2
     created: "2024-10-02T17:54:15.391663792+01:00"
@@ -6117,7 +6117,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.17.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.17.tgz
     version: 10.0.17
   - apiVersion: v2
     created: "2024-10-02T17:54:15.390203824+01:00"
@@ -6141,7 +6141,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.16.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.16.tgz
     version: 10.0.16
   - apiVersion: v2
     created: "2024-10-02T17:54:15.389287739+01:00"
@@ -6165,7 +6165,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.15.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.15.tgz
     version: 10.0.15
   - apiVersion: v2
     created: "2024-10-02T17:54:15.388398416+01:00"
@@ -6189,7 +6189,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.14.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.14.tgz
     version: 10.0.14
   - apiVersion: v2
     created: "2024-10-02T17:54:15.387483594+01:00"
@@ -6213,7 +6213,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.13.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.13.tgz
     version: 10.0.13
   - apiVersion: v2
     created: "2024-10-02T17:54:15.386517405+01:00"
@@ -6237,7 +6237,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.12.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.12.tgz
     version: 10.0.12
   - apiVersion: v2
     created: "2024-10-02T17:54:15.385167073+01:00"
@@ -6261,7 +6261,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.11.tgz
     version: 10.0.11
   - apiVersion: v2
     created: "2024-10-02T17:54:15.384157784+01:00"
@@ -6285,7 +6285,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.10.tgz
     version: 10.0.10
   - apiVersion: v2
     created: "2024-10-02T17:54:15.41035913+01:00"
@@ -6309,7 +6309,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.9.tgz
     version: 10.0.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.408960578+01:00"
@@ -6333,7 +6333,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.8.tgz
     version: 10.0.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.407995091+01:00"
@@ -6357,7 +6357,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.7.tgz
     version: 10.0.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.406989258+01:00"
@@ -6381,7 +6381,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.6.tgz
     version: 10.0.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.405971201+01:00"
@@ -6405,7 +6405,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.5.tgz
     version: 10.0.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.404949348+01:00"
@@ -6429,7 +6429,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.4.tgz
     version: 10.0.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.403916735+01:00"
@@ -6453,7 +6453,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.3.tgz
     version: 10.0.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.393558949+01:00"
@@ -6477,7 +6477,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.2.tgz
     version: 10.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.383102177+01:00"
@@ -6501,7 +6501,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.1.tgz
     version: 10.0.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.382108006+01:00"
@@ -6525,7 +6525,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-10.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.811441608+01:00"
@@ -6551,7 +6551,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-9.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-9.0.2.tgz
     version: 9.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.810575257+01:00"
@@ -6577,7 +6577,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-9.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-9.0.1.tgz
     version: 9.0.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.809714968+01:00"
@@ -6603,7 +6603,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-9.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.808895876+01:00"
@@ -6629,7 +6629,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.1.3.tgz
     version: 8.1.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.807926611+01:00"
@@ -6655,7 +6655,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.1.2.tgz
     version: 8.1.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.806593141+01:00"
@@ -6681,7 +6681,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.1.1.tgz
     version: 8.1.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.805748171+01:00"
@@ -6707,7 +6707,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.1.0.tgz
     version: 8.1.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.804920233+01:00"
@@ -6733,7 +6733,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.7.tgz
     version: 8.0.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.804039305+01:00"
@@ -6759,7 +6759,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.6.tgz
     version: 8.0.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.803130093+01:00"
@@ -6785,7 +6785,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.5.tgz
     version: 8.0.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.802128829+01:00"
@@ -6811,7 +6811,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.4.tgz
     version: 8.0.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.800785931+01:00"
@@ -6837,7 +6837,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.3.tgz
     version: 8.0.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.799783865+01:00"
@@ -6863,7 +6863,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.2.tgz
     version: 8.0.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.798938894+01:00"
@@ -6889,7 +6889,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.1.tgz
     version: 8.0.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.798088694+01:00"
@@ -6915,7 +6915,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-8.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.797237452+01:00"
@@ -6941,7 +6941,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.4.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.4.4.tgz
     version: 7.4.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.796369448+01:00"
@@ -6967,7 +6967,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.4.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.4.3.tgz
     version: 7.4.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.795467681+01:00"
@@ -6993,7 +6993,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.4.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.4.2.tgz
     version: 7.4.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.794034113+01:00"
@@ -7019,7 +7019,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.4.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.4.1.tgz
     version: 7.4.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.793098802+01:00"
@@ -7045,7 +7045,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.4.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.4.0.tgz
     version: 7.4.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.792148944+01:00"
@@ -7071,7 +7071,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.3.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.3.2.tgz
     version: 7.3.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.79121127+01:00"
@@ -7097,7 +7097,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.3.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.3.1.tgz
     version: 7.3.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.790277742+01:00"
@@ -7123,7 +7123,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.3.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.3.0.tgz
     version: 7.3.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.78935223+01:00"
@@ -7149,7 +7149,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.8.tgz
     version: 7.2.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.788419595+01:00"
@@ -7175,7 +7175,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.7.tgz
     version: 7.2.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.787092677+01:00"
@@ -7201,7 +7201,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.6.tgz
     version: 7.2.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.786153019+01:00"
@@ -7227,7 +7227,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.5.tgz
     version: 7.2.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.785191058+01:00"
@@ -7253,7 +7253,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.4.tgz
     version: 7.2.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.784243715+01:00"
@@ -7279,7 +7279,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.3.tgz
     version: 7.2.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.783291563+01:00"
@@ -7305,7 +7305,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.2.tgz
     version: 7.2.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.782330334+01:00"
@@ -7331,7 +7331,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.1.tgz
     version: 7.2.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.781097513+01:00"
@@ -7357,7 +7357,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.2.0.tgz
     version: 7.2.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.780222526+01:00"
@@ -7383,7 +7383,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.1.2.tgz
     version: 7.1.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.779407632+01:00"
@@ -7409,7 +7409,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.1.1.tgz
     version: 7.1.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.778595754+01:00"
@@ -7435,7 +7435,7 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.1.0.tgz
     version: 7.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.777790328+01:00"
@@ -7460,7 +7460,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.0.4.tgz
     version: 7.0.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.77698896+01:00"
@@ -7485,7 +7485,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.0.3.tgz
     version: 7.0.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.776103413+01:00"
@@ -7510,7 +7510,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.0.2.tgz
     version: 7.0.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.774853591+01:00"
@@ -7535,7 +7535,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.0.1.tgz
     version: 7.0.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.774050148+01:00"
@@ -7560,7 +7560,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-7.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.773232529+01:00"
@@ -7585,7 +7585,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.2.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.2.3.tgz
     version: 6.2.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.772397568+01:00"
@@ -7610,7 +7610,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.2.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.2.2.tgz
     version: 6.2.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.771566333+01:00"
@@ -7635,7 +7635,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.2.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.2.1.tgz
     version: 6.2.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.770759966+01:00"
@@ -7660,7 +7660,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.2.0.tgz
     version: 6.2.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.769835195+01:00"
@@ -7685,7 +7685,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.1.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.1.6.tgz
     version: 6.1.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.768534847+01:00"
@@ -7710,7 +7710,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.1.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.1.5.tgz
     version: 6.1.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.767759658+01:00"
@@ -7735,7 +7735,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.1.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.1.4.tgz
     version: 6.1.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.766970924+01:00"
@@ -7760,7 +7760,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.1.3.tgz
     version: 6.1.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.766193701+01:00"
@@ -7785,7 +7785,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.1.2.tgz
     version: 6.1.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.765411328+01:00"
@@ -7810,7 +7810,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.1.1.tgz
     version: 6.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.764618786+01:00"
@@ -7835,7 +7835,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.1.0.tgz
     version: 6.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.763778785+01:00"
@@ -7860,7 +7860,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.0.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.0.4.tgz
     version: 6.0.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.762497634+01:00"
@@ -7885,7 +7885,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.0.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.0.3.tgz
     version: 6.0.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.761669235+01:00"
@@ -7910,7 +7910,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.0.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.0.2.tgz
     version: 6.0.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.760863408+01:00"
@@ -7933,7 +7933,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.0.1.tgz
     version: 6.0.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.760058202+01:00"
@@ -7956,7 +7956,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-6.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.759237788+01:00"
@@ -7979,7 +7979,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.8.tgz
     version: 5.8.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.758406954+01:00"
@@ -8002,7 +8002,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.7.tgz
     version: 5.8.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.757376024+01:00"
@@ -8025,7 +8025,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.6.tgz
     version: 5.8.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.756337389+01:00"
@@ -8048,7 +8048,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.5.tgz
     version: 5.8.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.755681675+01:00"
@@ -8071,7 +8071,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.4.tgz
     version: 5.8.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.755027634+01:00"
@@ -8094,7 +8094,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.3.tgz
     version: 5.8.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.75437723+01:00"
@@ -8117,7 +8117,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.2.tgz
     version: 5.8.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.753722918+01:00"
@@ -8140,7 +8140,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.1.tgz
     version: 5.8.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.753080208+01:00"
@@ -8163,7 +8163,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.8.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.8.0.tgz
     version: 5.8.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.752425957+01:00"
@@ -8186,7 +8186,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.7.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.7.2.tgz
     version: 5.7.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.75172636+01:00"
@@ -8209,7 +8209,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.7.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.7.1.tgz
     version: 5.7.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.750866812+01:00"
@@ -8232,7 +8232,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.7.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.7.0.tgz
     version: 5.7.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.750046148+01:00"
@@ -8255,7 +8255,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.7.tgz
     version: 5.6.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.749344186+01:00"
@@ -8278,7 +8278,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.6.tgz
     version: 5.6.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.748618841+01:00"
@@ -8301,7 +8301,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.5.tgz
     version: 5.6.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.747933401+01:00"
@@ -8324,7 +8324,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.4.tgz
     version: 5.6.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.747239956+01:00"
@@ -8347,7 +8347,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.3.tgz
     version: 5.6.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.746553764+01:00"
@@ -8370,7 +8370,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.2.tgz
     version: 5.6.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.745736756+01:00"
@@ -8393,7 +8393,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.1.tgz
     version: 5.6.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.744926511+01:00"
@@ -8416,7 +8416,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.6.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.6.0.tgz
     version: 5.6.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.743804519+01:00"
@@ -8439,7 +8439,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.5.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.5.6.tgz
     version: 5.5.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.74314611+01:00"
@@ -8462,7 +8462,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.5.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.5.4.tgz
     version: 5.5.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.742466731+01:00"
@@ -8485,7 +8485,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.5.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.5.3.tgz
     version: 5.5.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.741810556+01:00"
@@ -8508,7 +8508,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.5.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.5.2.tgz
     version: 5.5.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.741135636+01:00"
@@ -8531,7 +8531,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.5.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.5.1.tgz
     version: 5.5.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.740453923+01:00"
@@ -8554,7 +8554,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.5.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.5.0.tgz
     version: 5.5.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.739764505+01:00"
@@ -8577,7 +8577,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.4.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.4.1.tgz
     version: 5.4.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.739059789+01:00"
@@ -8600,7 +8600,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.4.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.4.0.tgz
     version: 5.4.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.7329187+01:00"
@@ -8623,7 +8623,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.11.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.11.tgz
     version: 5.3.11
   - apiVersion: v1
     created: "2024-10-02T17:54:15.732123593+01:00"
@@ -8646,7 +8646,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.10.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.10.tgz
     version: 5.3.10
   - apiVersion: v1
     created: "2024-10-02T17:54:15.738250014+01:00"
@@ -8669,7 +8669,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.9.tgz
     version: 5.3.9
   - apiVersion: v1
     created: "2024-10-02T17:54:15.737185+01:00"
@@ -8692,7 +8692,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.8.tgz
     version: 5.3.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.736615969+01:00"
@@ -8715,7 +8715,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.7.tgz
     version: 5.3.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.73600041+01:00"
@@ -8738,7 +8738,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.6.tgz
     version: 5.3.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.735401503+01:00"
@@ -8761,7 +8761,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.5.tgz
     version: 5.3.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.734817203+01:00"
@@ -8784,7 +8784,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.4.tgz
     version: 5.3.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.734217474+01:00"
@@ -8807,7 +8807,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.3.tgz
     version: 5.3.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.733608729+01:00"
@@ -8830,7 +8830,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.2.tgz
     version: 5.3.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.730979089+01:00"
@@ -8853,7 +8853,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.3.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.3.1.tgz
     version: 5.3.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.730316803+01:00"
@@ -8878,7 +8878,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.2.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.2.2.tgz
     version: 5.2.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.729665416+01:00"
@@ -8903,7 +8903,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.2.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.2.1.tgz
     version: 5.2.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.728965759+01:00"
@@ -8928,7 +8928,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.2.0.tgz
     version: 5.2.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.728238841+01:00"
@@ -8953,7 +8953,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.1.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.1.5.tgz
     version: 5.1.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.727524206+01:00"
@@ -8978,7 +8978,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.1.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.1.4.tgz
     version: 5.1.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.726813478+01:00"
@@ -9003,7 +9003,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.1.3.tgz
     version: 5.1.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.726113831+01:00"
@@ -9028,7 +9028,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.1.2.tgz
     version: 5.1.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.725402603+01:00"
@@ -9053,7 +9053,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.1.1.tgz
     version: 5.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.724160375+01:00"
@@ -9078,7 +9078,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.1.0.tgz
     version: 5.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.722761872+01:00"
@@ -9103,7 +9103,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.0.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.0.1.tgz
     version: 5.0.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.72176728+01:00"
@@ -9128,7 +9128,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-5.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.720768921+01:00"
@@ -9153,7 +9153,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.8.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.8.2.tgz
     version: 4.8.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.719778367+01:00"
@@ -9178,7 +9178,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.8.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.8.1.tgz
     version: 4.8.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.718772073+01:00"
@@ -9203,7 +9203,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.8.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.8.0.tgz
     version: 4.8.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.717761741+01:00"
@@ -9228,7 +9228,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.7.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.7.4.tgz
     version: 4.7.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.716043888+01:00"
@@ -9253,7 +9253,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.7.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.7.3.tgz
     version: 4.7.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.715079883+01:00"
@@ -9278,7 +9278,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.7.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.7.2.tgz
     version: 4.7.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.714115067+01:00"
@@ -9303,7 +9303,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.7.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.7.1.tgz
     version: 4.7.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.713122118+01:00"
@@ -9328,7 +9328,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.7.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.7.0.tgz
     version: 4.7.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.712085527+01:00"
@@ -9353,7 +9353,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.6.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.6.4.tgz
     version: 4.6.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.710747218+01:00"
@@ -9378,7 +9378,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.6.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.6.3.tgz
     version: 4.6.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.710122633+01:00"
@@ -9403,7 +9403,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.6.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.6.2.tgz
     version: 4.6.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.709494711+01:00"
@@ -9428,7 +9428,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.6.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.6.1.tgz
     version: 4.6.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.708887187+01:00"
@@ -9453,7 +9453,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.6.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.6.0.tgz
     version: 4.6.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.708231904+01:00"
@@ -9478,7 +9478,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.5.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.5.0.tgz
     version: 4.5.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.706806571+01:00"
@@ -9503,7 +9503,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.4.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.4.1.tgz
     version: 4.4.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.705114827+01:00"
@@ -9528,7 +9528,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.4.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.4.0.tgz
     version: 4.4.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.70447923+01:00"
@@ -9553,7 +9553,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.3.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.3.5.tgz
     version: 4.3.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.703884721+01:00"
@@ -9578,7 +9578,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.3.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.3.4.tgz
     version: 4.3.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.703334355+01:00"
@@ -9603,7 +9603,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.3.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.3.3.tgz
     version: 4.3.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.702698058+01:00"
@@ -9628,7 +9628,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.3.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.3.2.tgz
     version: 4.3.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.702046151+01:00"
@@ -9653,7 +9653,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.3.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.3.1.tgz
     version: 4.3.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.701017525+01:00"
@@ -9678,7 +9678,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.3.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.3.0.tgz
     version: 4.3.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.70039326+01:00"
@@ -9703,7 +9703,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.2.0.tgz
     version: 4.2.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.69844346+01:00"
@@ -9728,7 +9728,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.1.1.tgz
     version: 4.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.697863488+01:00"
@@ -9753,7 +9753,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.697270792+01:00"
@@ -9778,7 +9778,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-4.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.696668529+01:00"
@@ -9803,7 +9803,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-3.3.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-3.3.1.tgz
     version: 3.3.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.696077797+01:00"
@@ -9828,7 +9828,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-3.3.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-3.3.0.tgz
     version: 3.3.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.695475363+01:00"
@@ -9853,7 +9853,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-3.2.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-3.2.3.tgz
     version: 3.2.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.694901803+01:00"
@@ -9878,7 +9878,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-3.2.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-3.2.2.tgz
     version: 3.2.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.694338333+01:00"
@@ -9903,7 +9903,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-3.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-3.2.0.tgz
     version: 3.2.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.692491056+01:00"
@@ -9928,7 +9928,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-3.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.691913178+01:00"
@@ -9953,7 +9953,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-2.1.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-2.1.4.tgz
     version: 2.1.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.691301908+01:00"
@@ -9978,7 +9978,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-2.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-2.1.3.tgz
     version: 2.1.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.690701928+01:00"
@@ -10003,7 +10003,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-2.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-2.1.2.tgz
     version: 2.1.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.689841729+01:00"
@@ -10028,7 +10028,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-2.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.689430716+01:00"
@@ -10053,7 +10053,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-2.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.68901322+01:00"
@@ -10078,7 +10078,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-2.0.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.381137148+01:00"
@@ -10103,7 +10103,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.9.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.9.1.tgz
     version: 1.9.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.380658657+01:00"
@@ -10128,7 +10128,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.8.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.8.1.tgz
     version: 1.8.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.380206176+01:00"
@@ -10153,7 +10153,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.8.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.8.0.tgz
     version: 1.8.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.379720662+01:00"
@@ -10176,7 +10176,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.7.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.7.1.tgz
     version: 1.7.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.378734576+01:00"
@@ -10199,7 +10199,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.7.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.7.0.tgz
     version: 1.7.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.378263119+01:00"
@@ -10222,7 +10222,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.6.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.6.2.tgz
     version: 1.6.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.377789387+01:00"
@@ -10245,7 +10245,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.6.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.6.1.tgz
     version: 1.6.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.377312279+01:00"
@@ -10268,7 +10268,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.6.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.6.0.tgz
     version: 1.6.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.376833127+01:00"
@@ -10291,7 +10291,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.5.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.376351481+01:00"
@@ -10314,7 +10314,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.4.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.4.4.tgz
     version: 1.4.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.375882348+01:00"
@@ -10337,7 +10337,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.4.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.4.3.tgz
     version: 1.4.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.3754107+01:00"
@@ -10360,7 +10360,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.3.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.3.3.tgz
     version: 1.3.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.374937239+01:00"
@@ -10383,7 +10383,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.3.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.3.2.tgz
     version: 1.3.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.374462575+01:00"
@@ -10406,7 +10406,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.3.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.373987251+01:00"
@@ -10429,7 +10429,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.3.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.373516464+01:00"
@@ -10452,7 +10452,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.9.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.9.tgz
     version: 1.2.9
   - apiVersion: v1
     created: "2024-10-02T17:54:15.373025741+01:00"
@@ -10475,7 +10475,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.8.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.8.tgz
     version: 1.2.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.372428557+01:00"
@@ -10498,7 +10498,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.7.tgz
     version: 1.2.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.371622169+01:00"
@@ -10521,7 +10521,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.6.tgz
     version: 1.2.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.37125613+01:00"
@@ -10544,7 +10544,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.5.tgz
     version: 1.2.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.370879852+01:00"
@@ -10567,7 +10567,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.4.tgz
     version: 1.2.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.370499175+01:00"
@@ -10590,7 +10590,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.3.tgz
     version: 1.2.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.370106205+01:00"
@@ -10613,7 +10613,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.2.tgz
     version: 1.2.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.369695482+01:00"
@@ -10636,7 +10636,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.369325616+01:00"
@@ -10659,7 +10659,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.2.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.368951472+01:00"
@@ -10682,7 +10682,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.7.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.368526552+01:00"
@@ -10705,7 +10705,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.6.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.368162537+01:00"
@@ -10728,7 +10728,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.5.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.367770439+01:00"
@@ -10751,7 +10751,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.4.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.3673988+01:00"
@@ -10774,7 +10774,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.3.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.367013685+01:00"
@@ -10797,7 +10797,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.2.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.366521709+01:00"
@@ -10820,7 +10820,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.1.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.365915758+01:00"
@@ -10843,7 +10843,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.1.0.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.365089613+01:00"
@@ -10864,7 +10864,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.21.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v1
     created: "2024-10-02T17:54:15.36470558+01:00"
@@ -10885,7 +10885,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.20.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v1
     created: "2024-10-02T17:54:15.364356333+01:00"
@@ -10906,7 +10906,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.19.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v1
     created: "2024-10-02T17:54:15.364004671+01:00"
@@ -10927,7 +10927,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.18.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v1
     created: "2024-10-02T17:54:15.363680651+01:00"
@@ -10948,7 +10948,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.17.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v1
     created: "2024-10-02T17:54:15.363353606+01:00"
@@ -10969,7 +10969,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.16.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v1
     created: "2024-10-02T17:54:15.362976566+01:00"
@@ -10990,7 +10990,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.15.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v1
     created: "2024-10-02T17:54:15.362594457+01:00"
@@ -11011,7 +11011,7 @@ entries:
     - https://github.com/openfaas/faas
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/openfaas-1.0.14.tgz
+    - https://pypestream.github.io/faas-netes/openfaas-1.0.14.tgz
     version: 1.0.14
   postgres-connector:
   - apiVersion: v1
@@ -11032,7 +11032,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.1.1.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.812988449+01:00"
@@ -11052,7 +11052,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.812763466+01:00"
@@ -11072,7 +11072,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.0.6.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.812556837+01:00"
@@ -11092,7 +11092,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.0.5.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.812346801+01:00"
@@ -11112,7 +11112,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.0.4.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.81216036+01:00"
@@ -11132,7 +11132,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.0.3.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.811963049+01:00"
@@ -11152,7 +11152,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.0.2.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.811711956+01:00"
@@ -11172,7 +11172,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/postgres-connector-0.0.1.tgz
+    - https://pypestream.github.io/faas-netes/postgres-connector-0.0.1.tgz
     version: 0.0.1
   pro-builder:
   - apiVersion: v1
@@ -11193,7 +11193,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.15.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.15.tgz
     version: 0.4.15
   - apiVersion: v1
     created: "2024-10-02T17:54:15.821068948+01:00"
@@ -11213,7 +11213,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.14.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.14.tgz
     version: 0.4.14
   - apiVersion: v1
     created: "2024-10-02T17:54:15.819237692+01:00"
@@ -11233,7 +11233,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.13.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.13.tgz
     version: 0.4.13
   - apiVersion: v1
     created: "2024-10-02T17:54:15.818144404+01:00"
@@ -11253,7 +11253,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.12.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.12.tgz
     version: 0.4.12
   - apiVersion: v1
     created: "2024-10-02T17:54:15.817840031+01:00"
@@ -11273,7 +11273,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.11.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.11.tgz
     version: 0.4.11
   - apiVersion: v1
     created: "2024-10-02T17:54:15.817394412+01:00"
@@ -11293,7 +11293,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.10.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.10.tgz
     version: 0.4.10
   - apiVersion: v1
     created: "2024-10-02T17:54:15.824628889+01:00"
@@ -11313,7 +11313,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.9.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.9.tgz
     version: 0.4.9
   - apiVersion: v1
     created: "2024-10-02T17:54:15.824245658+01:00"
@@ -11333,7 +11333,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.8.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.8.tgz
     version: 0.4.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.82388592+01:00"
@@ -11353,7 +11353,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.7.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.7.tgz
     version: 0.4.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.823484946+01:00"
@@ -11373,7 +11373,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.6.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.6.tgz
     version: 0.4.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.822752427+01:00"
@@ -11393,7 +11393,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.5.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.5.tgz
     version: 0.4.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.822359347+01:00"
@@ -11413,7 +11413,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.4.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.822055816+01:00"
@@ -11433,7 +11433,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.3.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.821741394+01:00"
@@ -11453,7 +11453,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.2.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.816997825+01:00"
@@ -11473,7 +11473,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.1.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.81668152+01:00"
@@ -11493,7 +11493,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.4.0.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.81637355+01:00"
@@ -11513,7 +11513,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.9.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.9.tgz
     version: 0.3.9
   - apiVersion: v1
     created: "2024-10-02T17:54:15.816051655+01:00"
@@ -11533,7 +11533,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.8.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.8.tgz
     version: 0.3.8
   - apiVersion: v1
     created: "2024-10-02T17:54:15.815707156+01:00"
@@ -11553,7 +11553,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.7.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.7.tgz
     version: 0.3.7
   - apiVersion: v1
     created: "2024-10-02T17:54:15.815431467+01:00"
@@ -11573,7 +11573,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.6.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.6.tgz
     version: 0.3.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.815084254+01:00"
@@ -11593,7 +11593,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.5.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.5.tgz
     version: 0.3.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.814725609+01:00"
@@ -11613,7 +11613,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.3.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.3.tgz
     version: 0.3.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.814469927+01:00"
@@ -11633,7 +11633,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.2.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.814214797+01:00"
@@ -11653,7 +11653,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.1.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.813953385+01:00"
@@ -11673,7 +11673,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/pro-builder-0.3.0.tgz
+    - https://pypestream.github.io/faas-netes/pro-builder-0.3.0.tgz
     version: 0.3.0
   probuilder:
   - apiVersion: v1
@@ -11694,7 +11694,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/probuilder-0.2.0.tgz
+    - https://pypestream.github.io/faas-netes/probuilder-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.824835117+01:00"
@@ -11712,7 +11712,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/probuilder-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/probuilder-0.1.0.tgz
     version: 0.1.0
   queue-worker:
   - apiVersion: v2
@@ -11732,7 +11732,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.9.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.9.tgz
     version: 0.2.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.831708995+01:00"
@@ -11751,7 +11751,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.8.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.8.tgz
     version: 0.2.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.8314085+01:00"
@@ -11770,7 +11770,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.7.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.7.tgz
     version: 0.2.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.831106782+01:00"
@@ -11789,7 +11789,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.6.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.6.tgz
     version: 0.2.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.830784124+01:00"
@@ -11808,7 +11808,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.5.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.829765918+01:00"
@@ -11827,7 +11827,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.4.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.829462948+01:00"
@@ -11846,7 +11846,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.3.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.829097901+01:00"
@@ -11865,7 +11865,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.2.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.827899064+01:00"
@@ -11884,7 +11884,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.1.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.827654163+01:00"
@@ -11903,7 +11903,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.2.0.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     created: "2024-10-02T17:54:15.827418119+01:00"
@@ -11922,7 +11922,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.9.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
     created: "2024-10-02T17:54:15.827178017+01:00"
@@ -11941,7 +11941,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.8.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v2
     created: "2024-10-02T17:54:15.826938536+01:00"
@@ -11960,7 +11960,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.7.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     created: "2024-10-02T17:54:15.826687774+01:00"
@@ -11979,7 +11979,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.6.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     created: "2024-10-02T17:54:15.826449145+01:00"
@@ -11998,7 +11998,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.5.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     created: "2024-10-02T17:54:15.826221557+01:00"
@@ -12017,7 +12017,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.4.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     created: "2024-10-02T17:54:15.82599508+01:00"
@@ -12036,7 +12036,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.3.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     created: "2024-10-02T17:54:15.825758285+01:00"
@@ -12055,7 +12055,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.2.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     created: "2024-10-02T17:54:15.825519545+01:00"
@@ -12074,7 +12074,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.1.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     created: "2024-10-02T17:54:15.825281998+01:00"
@@ -12093,7 +12093,7 @@ entries:
     name: queue-worker
     type: application
     urls:
-    - https://openfaas.github.io/faas-netes/queue-worker-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/queue-worker-0.1.0.tgz
     version: 0.1.0
   sns-connector:
   - apiVersion: v1
@@ -12115,7 +12115,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sns-connector-0.1.3.tgz
+    - https://pypestream.github.io/faas-netes/sns-connector-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.833046012+01:00"
@@ -12136,7 +12136,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sns-connector-0.1.2.tgz
+    - https://pypestream.github.io/faas-netes/sns-connector-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.832794238+01:00"
@@ -12157,7 +12157,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sns-connector-0.1.1.tgz
+    - https://pypestream.github.io/faas-netes/sns-connector-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.832529259+01:00"
@@ -12178,7 +12178,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sns-connector-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/sns-connector-0.1.0.tgz
     version: 0.1.0
   sqs-connector:
   - apiVersion: v1
@@ -12201,7 +12201,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.2.6.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.2.6.tgz
     version: 0.2.6
   - apiVersion: v1
     created: "2024-10-02T17:54:15.835375386+01:00"
@@ -12223,7 +12223,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.2.5.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v1
     created: "2024-10-02T17:54:15.835085651+01:00"
@@ -12243,7 +12243,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.2.4.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.834797849+01:00"
@@ -12263,7 +12263,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.2.3.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     created: "2024-10-02T17:54:15.834576813+01:00"
@@ -12283,7 +12283,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.2.2.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     created: "2024-10-02T17:54:15.834350858+01:00"
@@ -12303,7 +12303,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.2.1.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     created: "2024-10-02T17:54:15.83411835+01:00"
@@ -12323,7 +12323,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.2.0.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.83387915+01:00"
@@ -12343,7 +12343,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.1.0.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     created: "2024-10-02T17:54:15.833669465+01:00"
@@ -12363,7 +12363,7 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.0.4.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     created: "2024-10-02T17:54:15.83346998+01:00"
@@ -12383,6 +12383,6 @@ entries:
     sources:
     - https://github.com/openfaas/faas-netes
     urls:
-    - https://openfaas.github.io/faas-netes/sqs-connector-0.0.3.tgz
+    - https://pypestream.github.io/faas-netes/sqs-connector-0.0.3.tgz
     version: 0.0.3
 generated: "2024-10-02T17:54:15.335445206+01:00"
